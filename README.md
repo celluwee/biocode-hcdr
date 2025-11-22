@@ -1,8 +1,8 @@
 # Генерация вырожденных олигонуклеотидов для HCDR1 и HCDR2 (Ген IGHV3-21)
 
 ## Team
-Anna Andreeva
-Natalya Kondratyuk
+Anna Andreeva \
+Natalya Kondratyuk \
 Olga Piskunova
 
 
